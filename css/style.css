@@ -1672,7 +1672,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid yellow;
 }
 #intro .about-btn-ps:hover {
-  background: yellow;
+  background: blue;
   color: #fff;
   optacity: 0.2;
 }
