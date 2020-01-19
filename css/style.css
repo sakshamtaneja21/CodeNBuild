@@ -1667,7 +1667,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
   margin: 10px;
   color: white;
-  -webkit-animation-delay: 0.8s;
+  webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   border: 2px solid yellow;
+  background-color: yellow;
 }
