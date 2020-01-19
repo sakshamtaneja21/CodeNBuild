@@ -1669,7 +1669,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: white;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid yellow;
+  border: 2px solid #00BFFF;
 }
 #intro .about-btn-ps:hover {
   background: #00BFFF;
